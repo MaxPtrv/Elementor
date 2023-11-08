@@ -1,0 +1,1 @@
+Download and extract here: https://www.confluent.io/hub/confluentinc/kafka-connect-s3

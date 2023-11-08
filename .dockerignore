@@ -1,5 +1,9 @@
 Dockerfile
-charts/cpu-monitor-app
-charts/cpu-monitor-app/*
+charts/
+charts/*
+kafka-connect-docker
+kafka-connect-docker/*
 .idea
 .gitignore
+README.md
+s3-connector-config.json
