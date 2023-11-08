@@ -1,0 +1,25 @@
+{
+  "name": "elementor",
+  "version": "1.0.0",
+  "description": "My Elementor home assignment attempt",
+  "main": "app.js",
+  "dependencies": {
+    "kafkajs": "^2.2.4",
+    "os-utils": "^0.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxPtrv/Elementor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxPtrv/Elementor/issues"
+  },
+  "homepage": "https://github.com/MaxPtrv/Elementor#readme"
+}

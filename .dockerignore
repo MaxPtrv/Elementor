@@ -1,0 +1,5 @@
+Dockerfile
+cpu-monitor-app
+cpu-monitor-app/*
+.idea
+.gitignore
