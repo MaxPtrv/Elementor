@@ -1,5 +1,5 @@
 Dockerfile
-cpu-monitor-app
-cpu-monitor-app/*
+charts/cpu-monitor-app
+charts/cpu-monitor-app/*
 .idea
 .gitignore
