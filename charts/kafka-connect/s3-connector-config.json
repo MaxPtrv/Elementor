@@ -14,7 +14,7 @@
     "value.converter": "org.apache.kafka.connect.json.JsonConverter",
     "value.converter.schemas.enable": "false",
     "flush.size":  "1",
-    "aws.access.key.id": "AKIAQYZRMRHLZFY4W64C",
-    "aws.secret.access.key": "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"
+    "aws.access.key.id": "",
+    "aws.secret.access.key": ""
   }
 }
