@@ -6,4 +6,4 @@ kafka-connect-docker/*
 .idea
 .gitignore
 README.md
-s3-connector-config.json
+charts/kafka-connect/s3-connector-config.json
